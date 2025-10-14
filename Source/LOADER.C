@@ -1,7 +1,7 @@
 //
 // Copyright (C) C0000374
 //
-// Загрузчик оверлея
+// Г‡Г ГЈГ°ГіГ§Г·ГЁГЄ Г®ГўГҐГ°Г«ГҐГї
 //
 #include <WINDOWS.H>
 
@@ -77,4 +77,5 @@ void __stdcall WinMainCRTStartup(void) {
 	);
 
 	ExitProcess(0);
+
 }
